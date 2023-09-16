@@ -3,12 +3,8 @@ body {
 	max-width: 1440px;
 	font-family: Raleway, Arial, sans-serif;
 }
-* {
-	margin: 0;
-	padding: 0;
-	}
 .header {
-	margin: 92px 50px 101px ;
+	margin: 92px 50px;
 	display: grid;
 	grid-template-columns: 1fr min-content 1fr;
 	justify-content: center;
@@ -59,7 +55,7 @@ body {
 .cover {
 	
 	min-height: 757px;
-	background-image: url(/images/cover.jpg);
+	background-image: url(../images/cover.jpg);
 	position: relative;
 	background-size: cover;
 	background-repeat: no-repeat;
