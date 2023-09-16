@@ -15,7 +15,7 @@ body {
 	align-self: center;
 	justify-self: start;
 }
-.header__links-list { 
+.header__links-list {
 	display: flex;
 	flex-direction: row;
 	gap: 33px;
@@ -80,16 +80,15 @@ body {
 	text-transform: uppercase;
 	position: relative;
 	z-index: 1;
-	
 }
-.aligned-text { 
+.aligned-text {
 	display: block;
 }
 .aligned-text_center {
 	text-align: center;
 	padding-top: 10px;
 }
-.aligned-text_right { 
+.aligned-text_right {
 	text-align: right;
 }
 .letter-spacing-extended {
@@ -110,7 +109,6 @@ body {
 	z-index: 1;
 	display: flex;
 	justify-content: flex-end;
-
 }
 .cover__description-text {
 	word-spacing: 18px;
@@ -194,7 +192,7 @@ body {
 	line-height: 1.2;
 	z-index: 1;
 }
-.card_type_film { 
+.card_type_film {
 	background-image: url(../images/card-lot-01.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
