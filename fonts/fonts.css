@@ -15,3 +15,11 @@
   font-weight: bold;
   font-display: swap;
 }
+.lots__look-more-link {
+  margin-left: 40px;
+  color: #000;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
